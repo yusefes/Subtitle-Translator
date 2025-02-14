@@ -21,8 +21,8 @@
 
 1. کلون کردن مخزن:
 ```bash
-git clone https://github.com/YourUsername/zir-tarjomeh.git
-cd zir-tarjomeh
+git clone https://github.com/yusefes/Subtitle-Translator.git
+cd Subtitle-Translator-main
 ```
 
 2. نصب وابستگی‌ها:
